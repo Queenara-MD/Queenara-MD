@@ -33,7 +33,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=FF00FF&background=000000&center=true&vCenter=true&width=500&lines=ArslanMD+Official;Bot+Creator;WhatsApp+Expert" alt="Developer Animation">
   
   <br><br>
-  <a href="https://wa.me/message/VRZ5QLDAHXKSF1">
+  <a href="https://wa.me/message/923109506687">
     <img src="https://img.shields.io/badge/💬_CONTACT_DEVELOPER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" width="250"/>
   </a>
 </div>
@@ -46,7 +46,7 @@
   <table align="center">
     <tr>
       <td align="center">
-        <a href="https://whatsapp.com/channel/0029VarfjW04tRrmwfb8x306">
+        <a href="https://whatsapp.com/channel/0029VbBaUEsGzzKMvmp7c91N">
           <img src="https://img.shields.io/badge/📢_WHATSAPP_CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" width="250"/>
         </a>
       </td>
@@ -58,7 +58,7 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://youtube.com/@arslanmdofficial">
+        <a href="https://youtube.com/@Navigator101">
           <img src="https://img.shields.io/badge/📺_YOUTUBE_CHANNEL-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" width="250"/>
         </a>
       </td>
@@ -70,12 +70,12 @@
     </tr>
     <tr>
       <td align="center">
-        <a href="https://instagram.com/ArskanMDofficial">
+        <a href="https://instagram.com/MasterStormy">
           <img src="https://img.shields.io/badge/📸_INSTAGRAM_PROFILE-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" width="250"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://wa.me/message/VRZ5QLDAHXKSF1">
+        <a href="https://wa.me/message/923109506687">
           <img src="https://img.shields.io/badge/📞_CONTACT_OWNER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000" width="250"/>
         </a>
       </td>
@@ -172,7 +172,7 @@
   
   ```bash
   # 1. Clone Repository
-  git clone https://github.com/Arslan-MD/Arslan-Tech-Bot.git
+  git clone https://github.com/Queenara-MD/Queenara-MD/tree/main
 
   # 2. Install Dependencies  
   npm install
@@ -192,17 +192,17 @@
   <table align="center">
     <tr>
       <td align="center">
-        <a href="https://github.com/Arslan-MD/Arslan-Tech-Bot/fork">
+        <a href="https://github.com/Queenara-MD/Queenara-MD/tree/main/fork">
           <img src="https://img.shields.io/badge/🍴_FORK_REPO-000000?style=for-the-badge&logo=github&logoColor=white" width="180"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Arslan-MD/Arslan-Tech-Bot/stargazers">
+        <a href="https://github.com/Queenara-MD/Queenara-MD/tree/main/stargazers">
           <img src="https://img.shields.io/badge/⭐_STAR_REPO-FFD700?style=for-the-badge&logo=github&logoColor=black" width="180"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Arslan-MD/Arslan-Tech-Bot/issues">
+        <a href="https://github.com/Queenara-MD/Queenara-MD/tree/main/issues">
           <img src="https://img.shields.io/badge/🐛_REPORT_ISSUE-FF6B6B?style=for-the-badge&logo=github&logoColor=white" width="180"/>
         </a>
       </td>
