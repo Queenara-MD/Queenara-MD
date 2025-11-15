@@ -8,7 +8,7 @@
 
 -------
 
-[![Queenara-MD](https://raw.githubusercontent.com/Arslan-MD/Arslan-Tech-Bot/main/assets/mr.svg)](https://whatsapp.com/channel/0029VbBaUEsGzzKMvmp7c91N)
+[![Queenara-MD](https://github.com/Queenara-MD/Queenara-MD/tree/main/assets/mr.svg)](https://whatsapp.com/channel/0029VbBaUEsGzzKMvmp7c91N)
 
 
 -------------
